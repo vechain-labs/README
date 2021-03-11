@@ -5,15 +5,14 @@ Welcome to VeChain's new **community-driven** DeFi space!
 ## Phase #1
 
 During this phase we fork the Uniswap-v2 and make a basic DEX on VeChain.
-
+Developers are welcomed to **utilize** this organization's open source code to deploye their own DEXs.
 
 - `uni-v2`: Uniswap-v2 style DEX fork.
 - `vvet`: WETH style VET escrow contract.
 - `swap`: Deploy tools.
-- `vexchange-interface`: Web based interface for the DEX.
+- `vexchange-interface`: Web based interface by Kenneth.
 - Other commandline tools to help interfacing with DEX.
 
-Note: Although `Vexchange-v2` will be the first to receive Uniswap-v2 fork as source code. However other developers are also welcome to **utilize** this organization's open source code to deploye their own DEXs.
 
 ## Phase #2 (Plan)
 
