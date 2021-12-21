@@ -10,15 +10,14 @@ Developers are welcomed to **utilize** this organization's open source code to d
 - `uni-v2`: Uniswap-v2 fork of contracts.
 - `vvet`: WETH style VET escrow contract.
 - `uni-v2-deploy-scripts`: Deploy tools for `uni-v2` and `vvet`.
-- `vexchange-interface`: 3rd-party `uni-v2` web interface by Kenneth.
-- Other commandline tools to help interfacing with DEX.
+- `uni-v2-interface`: Demo web user interface for `uni-v2`.
+- `uni-v2-vechain-test`: Additional tests for uniswap-v2 on VeChain.
 
-
-## Phase #2 (Plan)
+## Phase #2 (On-going)
 
 This phase deals with several targets:
 
-- Incentive Token design guidelines for DEX.
+- Incentive Token design guidelines for DEX. (For specific projects to consider)
 - Cross-chain bridge to port USDT from Ethereum to VeChain.
 - Same as above, but in reversed direction, port vVET to Ethereum.
 
